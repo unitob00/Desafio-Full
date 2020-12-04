@@ -1,0 +1,13 @@
+.content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.listParcelas {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 15px 0 0 0;
+}
